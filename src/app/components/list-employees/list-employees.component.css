@@ -11,3 +11,7 @@ td,
 th {
   width: 25%;
 }
+
+.pointer {
+  cursor: pointer;
+}
